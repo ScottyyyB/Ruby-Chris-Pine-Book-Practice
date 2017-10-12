@@ -102,4 +102,3 @@ Did you mean?  pwws
 	from (irb):36
 	from /Users/guidobartels/.rvm/rubies/ruby-2.4.1/bin/irb:11:in `<main>'
 2.4.1 :037 >
-print my_group
