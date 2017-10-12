@@ -1,9 +1,12 @@
+
 # puts "Math genius!" if 2 + 2 == 4
 # puts 1 > 2
 #
 # Darth_Vader_Father = false
 # Darth_Vader_Son = "Luke Skywalker"
 # puts Darth_Vader_Father == true && Darth_Vader_Son == "Luke Skywalker" ? "Luke: Noooo" : "Yesss"
+
+#### Next Program Below
 
 # puts "Hello, whats your name?"
 # name = gets.chomp.capitalize
@@ -34,6 +37,8 @@
 # else
 #   puts "Ugh yuck, horrible name!"
 # end
+
+###### Next Program Below
 
 # drunk_level = 0
 # dance_attempts = 0
@@ -120,7 +125,8 @@
 #
 # end
 #
-#
+
+##### Next Program Below
 
 # sentence = ''
 #
@@ -130,6 +136,7 @@
 # end
 # puts "Come again!"
 
+#### Next Program Below
 
 # puts "Tell your granny something sweet."
 #
@@ -145,6 +152,7 @@
 #
 # puts "NO, NOT SINCE 19#{rand(30..50)}!"
 
+#### Next Program Below
 
 # puts "Enter a starting year: "
 # start_year = gets.chomp.to_i
