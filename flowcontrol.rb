@@ -130,16 +130,18 @@
 # end
 # puts "Come again!"
 
-command = ''
+
 puts "Tell your granny something sweet."
 
 loop do
-  puts "HUH?!  SPEAK UP, SONNY!"
-  command = gets.chomp
-  break if command == command.upcase unless command == "BYE" unless command == "BYE BYE" || command == "BYE " * 3
+puts "HUH?!  SPEAK UP, SONNY!"
+user = gets.chomp
 
+break if
+user == user.upcase unless user == "BYE" || user == "BYE BYE"
+break if
+user == "BYE BYE BYE"
 end
-
 
 puts "NO, NOT SINCE 19#{rand(30..50)}!"
 
