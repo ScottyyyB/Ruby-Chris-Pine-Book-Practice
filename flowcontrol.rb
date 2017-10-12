@@ -131,21 +131,21 @@
 # puts "Come again!"
 
 
-puts "Tell your granny something sweet."
+# puts "Tell your granny something sweet."
+#
+# loop do
+# puts "HUH?!  SPEAK UP, SONNY!"
+# user = gets.chomp
+#
+# break if
+# user == user.upcase unless user == "BYE" || user == "BYE BYE"
+# break if
+# user == "BYE BYE BYE"
+# end
+#
+# puts "NO, NOT SINCE 19#{rand(30..50)}!"
 
-loop do
-puts "HUH?!  SPEAK UP, SONNY!"
-user = gets.chomp
 
-break if
-user == user.upcase unless user == "BYE" || user == "BYE BYE"
-break if
-user == "BYE BYE BYE"
-end
-
-puts "NO, NOT SINCE 19#{rand(30..50)}!"
-
-# command == command.upcase unless command == "BYE" unless command == "BYE BYE" || command == "BYE " * 3
 # puts "Enter a starting year: "
 # start_year = gets.chomp.to_i
 # puts "Enter a ending year: "
